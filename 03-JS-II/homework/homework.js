@@ -205,8 +205,7 @@ function tieneTresDigitos(numero){
       return true;
     
   } else {return false;
-    
-  }
+      }
 }
 
 function doWhile(numero) {
